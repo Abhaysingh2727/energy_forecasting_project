@@ -1,4 +1,4 @@
-# Energy Demand & Solar Generation Analysis (2016)
+# Energy Demand & Solar Generation Analysis
 A complete GitHub-ready project prepared by **Abhay Singh**.
 
 ## 📁 Project Structure
